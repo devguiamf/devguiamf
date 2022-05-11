@@ -21,5 +21,5 @@
 
 </div><br/>
 
-<p>Gosto de fazer a diferença nas vidas das pessoas, ser lembrado por onde passei, e mais importante ser lembrado pelo oque eu fiz. Com a programação sinto que isso esta totalmente possivel e perto de mim. Além de reazlizer meus sonhos tambem realizarei das pessoas que precisam </p>
+<p>Gosto de fazer a diferença nas vidas das pessoas, ser lembrado por onde passei, e mais importante ser lembrado pelo oque eu fiz. Com a programação sinto que isso esta totalmente possivel e perto de mim.</p>
 
