@@ -1,23 +1,17 @@
 <h1 align="left" id="macropower-title">:wave: Olá! Bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devguiamf/">
+  <a href="https://www.linkedin.com/in/guilherme-morais-ferreira/">
     <img alt="Static Badge" src="https://img.shields.io/badge/-devguiamf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devguiamf/">
   </a>
-  <a href="https://raul-araujo-portfolio.vercel.app/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-devguiamf-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://raul-araujo-portfolio.vercel.app/">
-  </a>
-  <a href="https://www.instagram.com/raul.saraujo/">
+  <a href="https://www.instagram.com/guilherme.amf/">
     <img alt="Static Badge" src="https://img.shields.io/badge/-@raul.saraujo-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/raul.saraujo/">
   </a>
-  <a href="mailto:raul.araujo.2000@hotmail.com">
+  <a href="mailto:guilherme.amf18@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/-guilherme.amf18%40gmail.com-c14438?style=flat&logo=maildotru&logoColor=white&color=blue&link=mailto%3guilherme.amf18%40gmail.com">
   </a>
   <a href="https://github.com/devguiamf/devguiamf">
     <img src="https://komarev.com/ghpvc/?username=devguiamf" alt="page views" />
-  </a>
-  <a href="https://raul-araujo-portfolio.vercel.app">
-    <img alt="Website" src="https://img.shields.io/website?url=https://raul-araujo-portfolio.vercel.app">
   </a>
   <a href="https://github.com/devguiamf?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/devguiamf?style=flat&logo=github">
